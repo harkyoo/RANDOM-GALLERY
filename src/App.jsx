@@ -61,7 +61,7 @@ function App() {
           <div className="hero-meta">
             <span>30 works</span>
             <span>Seoul / Online</span>
-            <span>Open through March 2026</span>
+            <span>Open through July 2026</span>
           </div>
           <button type="button" className="rehang-button" onClick={handleRehang}>
             작품 다시 걸기
